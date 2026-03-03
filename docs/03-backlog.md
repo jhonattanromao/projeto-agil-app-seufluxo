@@ -20,6 +20,6 @@ Configurações gerais do aplicativo;
 `- Configurações do Usuário:`  
 Configurações da conta do usuário;  
 
-➡️ Próxima Etapa: [Sprints e Quadro Kanban](04-sprints.md)
-⬅️ Etapa Anterior: [Termo de Abertura do Projeto (TAP)](02-tap.md)
+➡️ Próxima Etapa: [Sprints e Quadro Kanban](04-sprints.md)  
+⬅️ Etapa Anterior: [Termo de Abertura do Projeto (TAP)](02-tap.md)  
 🏠 Voltar para o [README](../README.md)

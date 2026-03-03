@@ -11,6 +11,6 @@ tarefas e funcionalidades dentro do Asana. É de extrema importância entender a
 ![TAP - Riscos](../screenshots/tap-riscos.jpg)
 
 
-➡️ Próxima Etapa: [Product Backlog](03-backlog.md)
-⬅️ Etapa Anterior: [Visão Geral](01-visao-geral.md)
+➡️ Próxima Etapa: [Product Backlog](03-backlog.md)  
+⬅️ Etapa Anterior: [Visão Geral](01-visao-geral.md)  
 🏠 Voltar para o [README](../README.md)

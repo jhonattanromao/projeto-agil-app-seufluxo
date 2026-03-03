@@ -13,5 +13,5 @@ A proposta central foi planejar e desenvolver um aplicativo mobile que permitiss
 
 O projeto foi organizado com base no framework Scrum, dividido em múltiplas Sprints com entregas incrementais.
 
-➡️ Próxima Etapa: [Termo de Abertura do Projeto (TAP)](02-tap.md)
+➡️ Próxima Etapa: [Termo de Abertura do Projeto (TAP)](02-tap.md)  
 🏠 Voltar para o [README](../README.md)

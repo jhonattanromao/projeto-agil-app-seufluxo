@@ -23,6 +23,6 @@ Após finalização de uma tarefa (card) ela é etiquetada como “Finalizada”
 
 ![Concluídos](../screenshots/quadro-concluidos.jpg)
 
-➡️ Próxima Etapa: [Conclusão](05-conclusao.md)
-⬅️ Etapa Anterior: [Product Backlog](03-backlog.md)
+➡️ Próxima Etapa: [Conclusão](05-conclusao.md)  
+⬅️ Etapa Anterior: [Product Backlog](03-backlog.md)  
 🏠 Voltar para o [README](../README.md)
