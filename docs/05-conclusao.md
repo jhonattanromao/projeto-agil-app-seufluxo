@@ -7,4 +7,5 @@ O formato de quadro Kanban adotado na estruturação das Sprints possibilitou a 
 Confira o projeto refêrencia deste repositório aqui:  
 [→ Visualizar PDF](projeto-agil-app-financeiro-abnt.pdf)
 
-⬅️ Voltar para o [README](../README.md)
+⬅️ Etapa Anterior: [Sprints e Quadro Kanban](04-sprints.md)
+🏠 Voltar para o [README](../README.md)
