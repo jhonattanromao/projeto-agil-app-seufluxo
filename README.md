@@ -6,7 +6,7 @@ Este repositório documenta a aplicação prática das metodologias ágeis Scrum
 
 O projeto foi estruturado como um benefício corporativo para colaboradores de uma instituição financeira, com foco em controle financeiro, organização de despesas e visualização de lançamentos.
 
-![Quadro de Sprints](screenshots/img26.jpg)  
+![Quadro de Sprints](screenshots/quadro-kanban.jpg)  
 
 ---
 
