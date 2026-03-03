@@ -6,6 +6,8 @@ Este repositório documenta a aplicação prática das metodologias ágeis Scrum
 
 O projeto foi estruturado como um benefício corporativo para colaboradores de uma instituição financeira, com foco em controle financeiro, organização de despesas e visualização de lançamentos.
 
+![Quadro de Sprints](screenshots/img26.jpg)  
+
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -35,9 +37,8 @@ Planejar e desenvolver um aplicativo mobile para:
 1. [Visão Geral do Projeto](docs/01-visao-geral.md)
 2. [Termo de Abertura do Projeto (TAP)](docs/02-tap.md)
 3. [Product Backlog](docs/03-backlog.md)
-4. [Organização das Sprints](docs/04-sprints.md)
-5. [Fluxo Kanban e Entregas](docs/05-kanban-fluxo.md)
-
+4. [Sprints e Quadro Kanban](docs/04-sprints.md)
+5. [Conclusão](docs/05-conclusao.md)
 ---
 
 ## 🚀 Conceitos Ágeis Demonstrados
