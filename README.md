@@ -1,8 +1,8 @@
-# Projeto Ágil - App Financeiro
+# Projeto Ágil - App Financeiro SeuFluxo
 
 ## 📌 Introdução
 
-Este repositório documenta a aplicação prática das metodologias ágeis Scrum e Kanban no planejamento e organização do desenvolvimento de um aplicativo mobile de gestão financeira pessoal.
+Este repositório documenta a aplicação prática das metodologias ágeis Scrum e Kanban no planejamento e organização do desenvolvimento de um aplicativo mobile de gestão financeira pessoal fictício, denominado como "SeuFluxo".
 
 O projeto foi estruturado como um benefício corporativo para colaboradores de uma instituição financeira, com foco em controle financeiro, organização de despesas e visualização de lançamentos.
 
@@ -33,6 +33,7 @@ Planejar e desenvolver um aplicativo mobile para:
 ---
 
 ## 📚 Navegação da Documentação
+Acompanhe como foi o desenvolvimento deste projeto através deste menu organizado por etapas.
 
 1. [Visão Geral do Projeto](docs/01-visao-geral.md)
 2. [Termo de Abertura do Projeto (TAP)](docs/02-tap.md)

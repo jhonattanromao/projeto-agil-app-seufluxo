@@ -2,7 +2,7 @@
 
 O projeto SeuFluxo foi idealizado como uma solução de gestão financeira pessoal para colaboradores de uma instituição financeira.
 
-A proposta central foi desenvolver um aplicativo mobile que permitisse:
+A proposta central foi planejar e desenvolver um aplicativo mobile que permitisse:
 
 - Controle de receitas e despesas
 - Visualização de saldo total
